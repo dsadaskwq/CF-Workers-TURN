@@ -1,0 +1,72 @@
+name: Expand IP Ranges
+
+on:
+  push:
+    paths:
+      - 'ip.txt'        # ip.txt 变更时自动触发
+  workflow_dispatch:    # 支持手动触发
+
+jobs:
+  expand-ip:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # 允许写入仓库（提交 ip_list.txt）
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Expand IP ranges
+        run: |
+          python3 - <<'EOF'
+          import ipaddress
+          import sys
+
+          input_file = "ip.txt"
+          output_file = "ip_list.txt"
+
+          expanded = []
+
+          with open(input_file, "r") as f:
+              for line_num, raw in enumerate(f, 1):
+                  line = raw.strip()
+
+                  # 跳过空行和注释行
+                  if not line or line.startswith("#"):
+                      continue
+
+                  try:
+                      network = ipaddress.ip_network(line, strict=False)
+                      count = network.num_addresses
+
+                      # 安全限制：单个 CIDR 展开不超过 65536 个 IP（/16）
+                      if count > 65536:
+                          print(f"⚠️  Line {line_num}: {line} → {count} addresses, skipping (too large, use /16 or smaller)")
+                          continue
+
+                      for ip in network.hosts():
+                          expanded.append(str(ip))
+
+                      print(f"✅ Line {line_num}: {line} → {count - 2} hosts")
+
+                  except ValueError as e:
+                      print(f"❌ Line {line_num}: '{line}' is invalid — {e}", file=sys.stderr)
+
+          with open(output_file, "w") as f:
+              f.write("\n".join(expanded) + ("\n" if expanded else ""))
+
+          print(f"\n📄 Total IPs written to {output_file}: {len(expanded)}")
+          EOF
+
+      - name: Commit and push ip_list.txt
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ip_list.txt
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update ip_list.txt from ip.txt [skip ci]"
+            git push
+          fi
