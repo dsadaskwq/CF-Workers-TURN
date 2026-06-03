@@ -1,0 +1,39 @@
+name: Turn Scan
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # 每小时自动跑，不需要可删掉
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Build
+        run: go build -o turn_scan .
+
+      - name: Run scan
+        run: |
+          ./turn_scan \
+            -c 100 \
+            -p 500 \
+            -pt 3 \
+            -t 5 \
+            -ct 8 \
+            ip_list.txt
+
+      - name: Commit result
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add turn_results.txt
+          git diff --cached --quiet || git commit -m "update scan result $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
