@@ -3,7 +3,7 @@ name: Turn Scan
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * *'  # 每小时自动跑，不需要可删掉
+    - cron: '0 0 1 * *'  # 每月自动跑，不需要可删掉
 
 jobs:
   scan:
