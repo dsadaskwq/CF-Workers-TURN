@@ -1,4 +1,1 @@
 185.156.43.27:3478 ALL Ukraine-Kyivska Stare Misto [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
-203.69.30.64:3478 ALL Taiwan-Taiwan Taipei [住宅IP] CRED(test:test) Coturn-4.6.1 'Gorst'
-210.61.8.201:3478 UDP  [] NO_AUTH Coturn-4.4.5.4 'Ardee West'
-211.75.65.85:3478 ALL Taiwan-Taiwan Taipei [住宅IP] CRED(test:test) Coturn-4.6.2 'Gorst'
