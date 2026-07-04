@@ -601,7 +601,7 @@ func main() {
 				if !r.NoAuth {
 					auth = "CRED(" + r.Cred + ")"
 				}
-				fmt.Fprintf(out, "%s:%d %s %s [%s] %s %s\n",
+				fmt.Fprintf(out, "turn://%s:%d %s %s [%s] %s %s\n",
 					r.IP, r.Port, r.Mode, r.Country, r.IPType, auth, r.SW)
 			}
 			out.Close()
