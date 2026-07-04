@@ -1,1 +1,305 @@
-185.156.43.27:3478 ALL Ukraine-Kyivska Stare Misto [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+5.9.32.194:3478 ALL Germany-Sachsen Falkenstein [商企IP] CRED(test:test123) Coturn-4.5.2 'dan Eider'
+5.9.44.40:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+5.9.61.4:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+5.9.65.38:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+5.9.93.187:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.1.1 'dan Eider'
+5.9.96.209:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+5.9.111.228:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH None
+5.9.135.196:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+5.9.150.28:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+5.9.150.27:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+5.9.150.15:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+5.9.147.242:3478 UDP  [] CRED(test:1234) reTURNServer 0.4 - RFC5389/turn-12  
+5.9.245.133:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+5.75.165.199:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+5.75.183.102:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+23.88.60.65:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+5.75.224.254:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+5.75.231.152:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+23.88.23.160:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+23.88.57.24:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+37.27.20.77:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+37.27.20.225:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+37.27.4.48:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+37.27.6.5:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+37.27.21.182:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+37.27.29.172:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+37.27.31.240:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+37.27.35.56:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+37.27.64.176:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+37.27.64.218:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+37.27.93.197:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+37.27.94.25:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+37.27.182.40:3478 ALL Finland-Uusimaa Helsinki [商企IP] CRED(test:test123) Coturn-4.6.1 'Gorst'
+37.27.187.180:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+37.27.210.45:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+37.27.240.233:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+37.27.244.74:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+46.4.57.175:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+46.4.65.22:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.1.1 'dan Eider'
+46.4.225.77:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+46.62.133.184:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+46.62.150.138:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+46.62.160.169:3478 ALL Finland-Uusimaa Helsinki [商企IP] CRED(test:123456) Coturn-4.5.2 'dan Eider'
+46.62.167.2:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+46.62.195.60:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+46.62.210.49:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+46.62.246.141:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+46.62.251.224:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+62.238.14.200:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+62.238.18.14:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+65.21.24.234:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+65.21.105.78:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+65.21.126.228:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+65.21.149.123:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+65.21.179.133:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.1.1 'dan Eider'
+65.21.181.108:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+65.21.183.102:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+65.21.192.217:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+65.21.205.232:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+77.42.31.36:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+65.21.240.166:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+77.42.66.57:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+77.42.70.110:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+77.42.77.158:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+77.42.83.111:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+77.42.90.216:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+85.10.195.54:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+85.10.195.110:3478 ALL Germany-Bavaria Nuremberg [商企IP] CRED(test:test) Coturn-4.6.1 'Gorst'
+85.10.201.49:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+85.10.204.19:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.2 'Gorst'
+88.99.3.88:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.2 'Gorst'
+88.99.21.20:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+88.99.34.32:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+88.99.51.84:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+88.99.67.246:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+88.99.92.243:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+88.99.93.154:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+88.99.94.251:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+88.99.142.45:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+88.99.144.105:3478 ALL Germany-Sachsen Falkenstein [商企IP] CRED(test:test) 
+88.99.166.21:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.2 'Gorst'
+88.99.171.1:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+88.99.212.249:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.2 'Gorst'
+88.99.245.62:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+88.99.254.42:3478 UDP  [] NO_AUTH 
+88.198.27.50:3478 ALL Germany-Sachsen Falkenstein [商企IP] CRED(test:test123) Coturn-4.5.2 'dan Eider'
+88.198.95.31:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+88.198.192.115:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+89.167.45.129:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+88.198.198.94:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+88.198.225.215:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+89.167.4.41:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+89.167.16.193:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+91.107.154.170:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+89.167.60.240:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+89.167.70.38:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+89.167.73.217:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+89.167.84.159:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.2 'Gorst'
+89.167.86.118:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+89.167.93.194:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+89.167.116.140:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+89.167.120.135:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+91.107.144.148:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+91.107.147.26:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+91.107.177.85:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+91.107.194.169:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+91.107.194.60:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+91.107.219.120:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+91.107.220.110:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+91.107.227.131:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+91.107.230.9:3478 ALL Germany-Bavaria Nuremberg [商企IP] CRED(test:test123) Coturn-4.6.1 'Gorst'
+91.107.240.47:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+91.107.240.72:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+94.130.11.207:3478 UDP  [] CRED(test:test) flashphoner
+94.130.33.100:3478 UDP  [] CRED(test:test) flashphoner
+94.130.35.194:3478 UDP  [] CRED(test:test) flashphoner
+94.130.51.239:3478 UDP  [] CRED(test:test) flashphoner
+94.130.65.161:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+94.130.68.49:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+94.130.68.170:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+94.130.77.135:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+94.130.140.55:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+94.130.143.50:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+94.130.223.216:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.2 'Gorst'
+94.130.141.250:3478 UDP  [] CRED(test:test) flashphoner
+94.130.173.97:3478 ALL Germany-Bavaria Nuremberg [商企IP] CRED(test:test123) Coturn-4.5.1.1 'dan Eider'
+94.130.225.181:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH None
+94.130.226.70:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+128.140.43.162:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+128.140.47.184:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+128.140.72.71:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+128.140.95.215:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+128.140.120.162:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+135.181.18.172:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+135.181.114.98:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+135.181.186.24:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+135.181.195.83:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+135.181.218.216:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+135.181.223.210:3478 UDP  [] CRED(test:test) flashphoner
+135.181.243.121:3478 ALL Finland-Uusimaa Helsinki [商企IP] CRED(test:test) 
+135.181.250.119:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+135.181.254.177:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+136.243.5.189:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+136.243.156.26:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+136.243.172.23:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+136.243.172.37:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+136.243.172.40:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+136.243.242.237:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+136.243.239.163:3478 UDP  [] CRED(test:test) flashphoner
+136.243.239.171:3478 UDP  [] CRED(test:test) flashphoner
+138.199.144.129:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+138.199.145.123:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+138.199.152.240:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+138.199.164.93:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+138.199.226.72:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+138.201.36.56:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+138.201.80.92:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+138.201.118.234:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+138.201.140.219:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+138.201.205.241:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+138.201.227.106:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+142.132.162.214:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+142.132.179.203:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+142.132.181.77:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+142.132.184.57:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+142.132.192.5:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+142.132.192.26:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+142.132.214.170:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+142.132.255.156:3478 ALL Germany-Sachsen Falkenstein [商企IP] CRED(test:test123) Coturn-4.5.1.1 'dan Eider'
+144.76.71.112:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+144.76.80.157:3478 UDP  [] CRED(test:test) flashphoner
+144.76.196.246:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+144.76.223.2:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+144.76.229.226:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+144.76.255.243:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+148.251.123.153:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Citrix-3.2.2.1 'Marshal West'
+148.251.137.248:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+148.251.152.90:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+148.251.152.91:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+148.251.222.148:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+148.251.253.27:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.1.1 'dan Eider'
+157.90.5.50:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+157.90.21.79:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+157.90.134.250:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+157.90.251.25:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+157.90.150.255:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+157.90.151.35:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+157.90.155.9:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+157.90.156.7:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+157.90.159.13:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+157.90.178.6:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+157.90.178.47:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+157.90.194.185:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+157.90.207.121:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+157.90.211.106:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+157.90.242.146:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+157.90.247.53:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+157.180.11.119:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+157.180.23.29:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+157.180.87.168:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+157.180.116.176:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+159.69.6.184:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+159.69.7.77:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+159.69.10.98:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+159.69.11.154:3478 UDP  [] NO_AUTH Coturn-4.6.2 'Gorst'
+159.69.31.173:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+159.69.35.17:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+159.69.41.139:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+159.69.45.2:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+159.69.123.76:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+159.69.54.170:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.1.1 'dan Eider'
+159.69.81.120:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+159.69.111.197:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+159.69.124.18:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+159.69.216.88:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+159.69.169.163:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+159.69.176.126:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+159.69.187.122:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+159.69.194.83:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+159.69.212.47:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+162.55.50.74:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+162.55.161.75:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+162.55.165.243:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+162.55.163.131:3478 TCP Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+162.55.217.192:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+162.55.244.157:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+167.233.16.90:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+167.233.20.213:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+167.233.20.146:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+167.233.24.105:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+167.233.39.16:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+167.233.45.122:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+167.233.85.135:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+167.233.130.110:3478 TCP Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+167.235.29.34:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+167.235.69.170:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+167.235.100.214:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+167.235.139.220:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.5.1.1 'dan Eider'
+167.235.150.4:3478 ALL Germany-Bavaria Nuremberg [商企IP] CRED(test:test123) Coturn-4.6.2 'Gorst'
+167.235.158.55:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+167.235.205.83:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+167.235.231.9:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+168.119.13.234:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+168.119.30.21:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+168.119.38.165:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+168.119.78.44:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+168.119.106.83:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+168.119.114.94:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+168.119.117.73:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+168.119.146.133:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+168.119.171.185:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+168.119.179.208:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+168.119.186.158:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.2 'Gorst'
+168.119.227.125:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH 
+168.119.232.12:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+168.119.237.81:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+176.9.2.13:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+176.9.10.26:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+176.9.11.194:3478 UDP  [] NO_AUTH Coturn-4.6.1 'Gorst'
+176.9.19.38:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+176.9.39.163:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+176.9.57.94:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+176.9.65.80:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+176.9.104.98:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+176.9.121.153:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+176.9.183.230:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+176.9.233.122:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+178.63.27.36:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+178.63.36.45:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+178.63.53.122:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+178.63.84.224:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+178.63.251.86:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+188.34.183.90:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+188.34.197.36:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+188.40.55.68:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+188.40.55.100:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+188.40.252.188:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+188.245.37.195:3478 ALL Germany-Bavaria Nuremberg [商企IP] CRED(test:test123) Coturn-4.6.1 'Gorst'
+188.245.49.92:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+188.245.65.152:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+188.245.81.103:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+188.245.104.167:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+188.245.117.146:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+188.245.155.147:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+188.245.165.156:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+188.245.196.222:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+188.245.197.136:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+195.201.13.96:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH 
+195.201.27.192:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+195.201.119.15:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+195.201.117.87:3478 UDP  [] CRED(test:test) flashphoner
+195.201.126.141:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+195.201.128.51:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
+195.201.147.47:3478 UDP  [] NO_AUTH 
+195.201.152.36:3478 TCP Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+195.201.166.182:3478 UDP  [] CRED(test:test) flashphoner
+195.201.225.74:3478 ALL Germany-Bavaria Nuremberg [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+204.168.138.65:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+204.168.147.193:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH 
+204.168.152.7:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.3 'Gorst'
+204.168.186.147:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.2 'Gorst'
+204.168.205.252:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+204.168.214.101:3478 ALL Finland-Uusimaa Helsinki [商企IP] NO_AUTH Coturn-4.6.1 'Gorst'
+213.133.99.41:3478 UDP  [] NO_AUTH restund v0.4.11 (x86_64/linux)
+213.239.202.216:3478 ALL Germany-Sachsen Falkenstein [商企IP] NO_AUTH Coturn-4.5.2 'dan Eider'
