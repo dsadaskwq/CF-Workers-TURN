@@ -3,14 +3,20 @@ name: Turn Scan
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * *'  # 每月自动跑，不需要可删掉
+    - cron: '0 0 1 * *'
+
+permissions:
+  contents: write
 
 jobs:
   scan:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Go
         uses: actions/setup-go@v5
@@ -30,10 +36,40 @@ jobs:
             -ct 8 \
             ip_list.txt
 
+      - name: Delete old latest Release
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release delete latest -y || true
+          git push origin :refs/tags/latest || true
+
+      - name: Create latest Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Latest TURN Scan
+          body: |
+            ## TURN 扫描结果
+
+            此 Release 会在每次运行时自动更新。
+
+            上传时间：${{ github.run_id }}
+          files: |
+            turn_results.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit result
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add turn_results.txt
-          git diff --cached --quiet || git commit -m "update scan result $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "update scan result $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
